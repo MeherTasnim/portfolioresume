@@ -18,6 +18,12 @@ h2 {
 
 }
 
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+}
+
 .jumbotron {
   margin: 0;
   padding: 25px;

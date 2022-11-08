@@ -1,0 +1,32 @@
+h1, h2 {
+  font-family: "Lobster", cursive;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+header h1 {
+  color: #A569BD;
+  font-weight: bold;
+  font-size: 32;
+}
+
+h2 {
+  color: #2980B9 ;
+  padding-left: 50px;
+
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 25px;
+  color: grey;
+  /* background-image: linear-gradient(to right, white, violet); */
+  text-align: center;
+}
+
+/* .row-content {
+  padding: 20px 0;
+  min-height: 50px;
+} */
